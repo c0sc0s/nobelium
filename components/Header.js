@@ -114,8 +114,8 @@ export default function Header({ navBarTitle, fullWidth }) {
           <Link href="/" aria-label={BLOG.title}>
             <Image
               src={favicon}
-              width={32}
-              height={32}
+              width={50}
+              height={50}
               alt={BLOG.title}
               onError={() => setFavicon(true)}
             />
