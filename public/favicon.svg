@@ -3,8 +3,8 @@
   <defs>
     <g />
   </defs>
-  <rect x="-37.5" width="450" y="-37.499999" height="449.999989" fill-opacity="1" />
-  <rect x="-37.5" width="450" y="-37.499999" height="449.999989" fill-opacity="1" />
+  <rect x="-37.5" width="450" y="-37.499999" height="449.999989" fill-opacity="0" />
+  <rect x="-37.5" width="450" y="-37.499999" height="449.999989" fill-opacity="0" />
   <g fill="#ffbd59" fill-opacity="1">
     <g transform="translate(14.698246, 222.215287)">
       <g>
