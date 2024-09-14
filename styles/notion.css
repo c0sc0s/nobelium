@@ -249,3 +249,9 @@ pre[class*='language-'] {
 .nobelium-toggle-content > :last-child {
   @apply mb-0;
 }
+
+.medium-zoom-image {
+  border-radius: 15px; /* 圆角 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 阴影 */
+  transition: all 0.3s ease;
+}
